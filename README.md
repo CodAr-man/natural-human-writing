@@ -9,13 +9,13 @@ An agent skill and guideline for clear, natural, grounded writing that avoids AI
 Copy and paste this prompt to your agent (Antigravity, Claude Code, Cursor, Windsurf, Codex, Cline, etc.):
 
 ```text
-Install the skill from https://github.com/CodAr-man/natural-human-writing.git into my agent skills directory (~/.agents/skills/natural-human-writing or .agents/skills/natural-human-writing).
+Install this skill https://github.com/CodAr-man/natural-human-writing.git .
 ```
 
 Or to use it directly as a plugin, rule, or custom instruction:
 
 ```text
-Fetch and apply the writing guidelines from https://raw.githubusercontent.com/CodAr-man/natural-human-writing/main/SKILL.md whenever generating or editing text.
+Install this skill as a plugin https://raw.githubusercontent.com/CodAr-man/natural-human-writing.git
 ```
 
 ---
@@ -38,3 +38,8 @@ git clone https://github.com/CodAr-man/natural-human-writing.git .agents/skills/
 - **Specific**: Replaces vague filler ("a testament to", "delve into", "pivotal role") with concrete details.
 - **Preserves meaning**: Keeps all facts, numbers, and core intent while stripping AI fluff and boilerplate.
 - **Natural rhythm**: Varies sentence length and structure without forced formality or fake casualness.
+
+## Inspired from:
+
+- **Unslop**: github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md
+- **humanizer**: github.com/blader/humanizer
