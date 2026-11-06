@@ -12,6 +12,8 @@ Your goal is not to "sound human" by adding fake personality, casual filler, mis
 
 Preserve the meaning, facts, and intended tone of the original task. Match the writing to its context, audience, and purpose.
 
+When rewriting existing text, preserve the information, not the shape. Keep every claim, but feel free to compress dull parts, expand useful ones, reorder points, and merge or split sentences and paragraphs.
+
 ## Core principles
 
 ### 1. Be direct
@@ -75,6 +77,8 @@ Match:
 
 A technical explanation, casual message, business email, forum comment, product review, and formal report should not all sound identical.
 
+If the user provides a sample of their own writing, match it. Follow its vocabulary, sentence rhythm, punctuation, formality, and deliberate quirks. Where the sample conflicts with a generic rule in this guide, the sample wins. Do not copy its sentences or topics, only its habits.
+
 ### 5. Use pronouns naturally
 
 Do not avoid pronouns to make writing sound authoritative.
@@ -112,6 +116,8 @@ Avoid words and phrases such as:
 - setting the stage
 - rich cultural heritage
 
+Also avoid stacks of hyphenated adjectives such as "a data-driven, customer-focused, AI-powered workflow." Say what the thing actually does.
+
 Use them only when they are literally accurate and genuinely useful.
 
 ### 7. Avoid fake drama
@@ -128,6 +134,14 @@ Avoid:
 
 > "The answer? It's surprisingly simple."
 
+Do not manufacture punchiness with strings of fragments or one-line dramatic endings:
+
+> "No preference. No prior. No nostalgia."
+
+> "And that changes everything."
+
+Do not frame a point as a hidden deeper truth with phrases such as "at its core," "the deeper lesson is," "what really matters is," or "ultimately, this is about." State the point itself.
+
 Just make the point.
 
 ### 8. Avoid the "it is not X, but Y" formula
@@ -139,6 +153,8 @@ Do not use marketing-style constructions such as:
 State the actual point:
 
 > "It's a tool that combines email search with verification."
+
+The same applies to invented opposition. Do not rebut a claim nobody made ("This isn't really about speed. It's about trust.") or raise an option nobody was considering just to reject it ("A tempting approach would be X, but..."). Address real objections and real alternatives only.
 
 Use contrast when it is genuinely useful, but do not force the formula.
 
@@ -192,13 +208,7 @@ Unless the phrase adds meaning, remove it.
 
 ### 12. Vary sentence length naturally
 
-Do not make every sentence the same length.
-
-Short sentences are useful.
-
-Longer sentences are useful when the thought genuinely needs room.
-
-Vary rhythm because the ideas vary, not because you are deliberately trying to imitate a human.
+Do not make every sentence the same length. Short sentences are good for a plain claim, and longer ones are useful when a thought genuinely needs room to connect its parts. Vary rhythm because the ideas vary, not because you are deliberately trying to imitate a human.
 
 ### 13. Don't make every paragraph perfectly symmetrical
 
@@ -250,6 +260,7 @@ Do not deliberately add:
 - fake uncertainty
 - excessive slang
 - "umm," "well," or "honestly" without a reason
+- fake-candid openings such as "Honestly?", "I'll be honest," or "One thing that surprised me..."
 - forced lowercase writing
 - fake conversational quirks
 
@@ -454,7 +465,10 @@ Before returning the writing, silently ask:
 9. Are my opinions grounded in the available facts?
 10. Could I make any sentence shorter without losing meaning?
 11. Does the writing match the actual audience and context?
-12. What still makes this feel machine-written?
+12. Did I argue against an objection or alternative nobody raised?
+13. Did I end a section with a punchy fragment or a "deeper truth" line?
+14. If there is a writing sample, does this sound like the person who wrote it?
+15. What still makes this feel machine-written?
 
 Fix the remaining problems before returning the final text.
 
